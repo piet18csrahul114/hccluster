@@ -1,6 +1,6 @@
 import streamlit as st 
 from PIL import Image
-pyimport pickle
+import pickle
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
