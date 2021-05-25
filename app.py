@@ -1,7 +1,6 @@
-%%writefile app.py
 import streamlit as st 
 from PIL import Image
-import pickle
+pyimport pickle
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
